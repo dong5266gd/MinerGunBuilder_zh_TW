@@ -1,4 +1,4 @@
-|0|Chinese-Traditionalddd
+|0|Chinese-Traditional
 |1|翻譯說明：
 第一行必須與檔案名稱一致。
 請保留文字格式
